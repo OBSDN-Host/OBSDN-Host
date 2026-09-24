@@ -1,0 +1,991 @@
+## OBSDN Host — Terms of Service
+Effective Date: September 23, 2026
+Last Updated: September 23, 2026
+
+These Terms of Service (“Terms”, “Terms of Service”, or “Agreement”) govern your access to and use of the websites, client areas, hosting infrastructure, Discord services, support systems, and other products and services provided by OBSDN Host (“OBSDN Host”, “OBSDN”, “we”, “us”, “our”, or “Company”).
+By creating an account, purchasing a service, accessing a server, uploading content, opening a support request, joining or interacting with our official Discord community, or otherwise using any service provided by OBSDN Host, you acknowledge that you have read, understood, and agreed to these Terms.
+If you do not agree to these Terms, you must not create an account, purchase a service, or use any OBSDN Host service.
+
+⸻
+
+1. Definitions
+For purposes of these Terms:
+
+1.1 “OBSDN Host”
+“OBSDN Host”, “OBSDN”, “we”, “us”, “our”, or “Company” refers to the operator of the OBSDN Host services and platform.
+
+1.2 “Customer”
+“Customer”, “you”, “your”, “client”, or “user” refers to any individual, organization, business, or other entity that accesses, purchases, or uses an OBSDN Host service.
+
+1.3 “Services”
+“Services” refers to any product, hosting service, server instance, infrastructure, website functionality, client-area functionality, support service, network service, Discord-related service, storage, backup, or other service provided by OBSDN Host.
+
+1.4 “Server”
+“Server” refers to a hosting instance or computing environment provisioned by OBSDN Host for a Customer.
+
+1.5 “Bot”
+“Bot” refers to a Discord bot, application, software application, program, script, or other workload deployed by a Customer through OBSDN Host.
+
+1.6 “Customer Content”
+“Customer Content” means any software, source code, configuration files, databases, files, media, text, credentials, environment variables, data, or other material uploaded, transmitted, stored, or otherwise provided by the Customer through the Services.
+
+1.7 “Account”
+“Account” means the Customer’s account used to access OBSDN Host’s website, client area, billing systems, control panels, support systems, or related services.
+
+1.8 “Third-Party Services”
+“Third-Party Services” means services, software, APIs, payment processors, platforms, networks, infrastructure providers, Discord, GitHub, or other systems operated by entities other than OBSDN Host.
+
+⸻
+
+2. Acceptance of These Terms
+
+2.1 Agreement
+By using any OBSDN Host Service, you agree to be legally bound by these Terms.
+
+2.2 Electronic Acceptance
+Electronic acceptance, including selecting an acceptance checkbox during registration or checkout, constitutes acceptance of these Terms.
+
+2.3 Continued Use
+Your continued use of the Services following an update to these Terms constitutes acceptance of the updated Terms, subject to applicable law.
+
+2.4 Entire Agreement
+These Terms, together with any applicable policies, product-specific conditions, service descriptions, order information, and other documents expressly incorporated into these Terms, constitute the agreement between you and OBSDN Host regarding the Services.
+
+⸻
+
+3. Eligibility
+
+3.1 Age Requirement
+
+You must be legally capable of entering into a binding agreement under the laws applicable to you.
+
+If you are below the age required to independently enter into contracts in your jurisdiction, you may use the Services only with the involvement and authorization of a parent or legal guardian where legally required.
+
+3.2 Accurate Information
+
+You agree to provide accurate, current, and complete information when creating an Account or purchasing Services.
+
+This may include:
+
+* Your legal or preferred name;
+* A valid email address;
+* Billing information;
+* Contact information;
+* Account credentials; and
+* Any other information reasonably required to provide or secure the Services.
+
+3.3 Account Restrictions
+
+You may not intentionally provide fraudulent, misleading, stolen, or impersonated information.
+
+OBSDN Host may suspend or terminate an Account where information appears to have been provided fraudulently or for purposes of abuse, fraud, or evasion of enforcement.
+
+⸻
+
+4. Account Security
+
+4.1 Account Responsibility
+
+You are responsible for maintaining the confidentiality of your Account credentials.
+
+4.2 Unauthorized Access
+
+You must notify OBSDN Host as soon as reasonably possible if you believe your Account or credentials have been compromised.
+
+4.3 Customer Actions
+
+You are responsible for activity performed through your Account unless you can demonstrate that such activity occurred without your authorization and despite reasonable security measures.
+
+4.4 Credential Protection
+
+You must not intentionally expose, publish, sell, distribute, or otherwise disclose passwords, API keys, authentication tokens, database credentials, Discord bot tokens, SSH credentials, or other sensitive authentication information.
+
+4.5 Shared Access
+
+You may provide access to other individuals where the applicable Service permits it. You remain responsible for activity performed by individuals to whom you grant access.
+
+⸻
+
+5. OBSDN Host Services
+
+OBSDN Host provides hosting and related infrastructure services primarily intended for Discord bots and related applications.
+
+Services may include, but are not limited to:
+
+* Discord bot hosting;
+* Application hosting;
+* Server instances;
+* CPU and RAM resources;
+* Storage;
+* Network connectivity;
+* DDoS protection;
+* Backups;
+* Monitoring;
+* Control-panel functionality;
+* Automated deployment;
+* Customer support;
+* Infrastructure management; and
+* Other hosting-related products introduced in the future.
+
+The exact resources and limitations of each Service are determined by the applicable product listing, order, plan, or service description.
+
+⸻
+
+6. Resource Allocation and Fair Use
+
+6.1 Allocated Resources
+
+Each Service is provided with the CPU, RAM, storage, network, and other resources specified by the applicable plan.
+
+6.2 Resource Abuse
+
+Customers must not intentionally use a Service in a manner that substantially interferes with infrastructure, other Customers, network stability, or the operation of OBSDN Host.
+
+Examples include:
+
+* Deliberate resource exhaustion;
+* Intentional CPU abuse;
+* Intentional memory exhaustion;
+* Disk abuse;
+* Network abuse;
+* Excessive disk I/O;
+* Deliberate network flooding;
+* Attempts to interfere with other Customers;
+* Running workloads unrelated to the purchased Service in a manner that violates the applicable plan; or
+* Attempts to circumvent resource limitations.
+
+6.3 Overselling Resources
+
+A Customer may not resell, redistribute, lease, or provide access to OBSDN Host infrastructure as a hosting service to third parties unless expressly authorized by OBSDN Host in writing.
+
+6.4 Resource Enforcement
+
+If a workload creates a material risk to infrastructure or other Customers, OBSDN Host may take reasonable measures to protect the platform.
+
+Such measures may include:
+
+* Temporary suspension;
+* Resource limitation;
+* Process termination;
+* Network restriction;
+* Migration;
+* Service termination; or
+* Other reasonable technical measures.
+
+Where reasonably practical, OBSDN Host will attempt to contact the Customer before taking significant action. This may not be possible where immediate action is required to protect infrastructure, customers, security, or legal compliance.
+
+⸻
+
+7. Acceptable Use Policy
+
+Customers may use OBSDN Host Services only for lawful purposes and in accordance with these Terms.
+
+The following activities are prohibited.
+
+7.1 Illegal Activities
+
+You may not use OBSDN Host Services to facilitate, perform, distribute, store, or promote unlawful activity.
+
+This includes activity prohibited by applicable federal, state, local, or international law.
+
+7.2 Hacking and Unauthorized Access
+
+You may not use OBSDN infrastructure for:
+
+* Unauthorized access to systems;
+* Credential theft;
+* Password cracking;
+* Brute-force attacks;
+* Exploitation of systems without authorization;
+* Unauthorized vulnerability scanning;
+* Unauthorized penetration testing;
+* Port scanning intended to facilitate abuse;
+* Malware deployment;
+* Botnet activity;
+* Command-and-control infrastructure;
+* Data theft; or
+* Circumvention of security controls.
+
+Authorized security testing may be permitted only where you have explicit authorization from the system owner and the activity does not negatively affect OBSDN infrastructure.
+
+7.3 DDoS and Network Attacks
+
+You may not use Services to launch, coordinate, facilitate, test, or participate in:
+
+* DDoS attacks;
+* DoS attacks;
+* Reflection attacks;
+* Amplification attacks;
+* Network flooding;
+* Packet flooding;
+* Traffic amplification;
+* Network disruption; or
+* Other attacks against networks, servers, applications, or individuals.
+
+7.4 Malware
+
+You may not knowingly host, distribute, deploy, or operate:
+
+* Viruses;
+* Worms;
+* Trojans;
+* Ransomware;
+* Spyware;
+* Credential stealers;
+* Remote-access malware;
+* Cryptojacking malware;
+* Malicious payloads;
+* Botnets; or
+* Other software primarily designed to cause unauthorized harm.
+
+7.5 Phishing and Fraud
+
+You may not use Services to operate or distribute phishing pages, fraudulent websites, credential harvesting systems, scams, impersonation schemes, or other deceptive services.
+
+7.6 Spam
+
+You may not use Services for unlawful or abusive bulk messaging, unsolicited email, spam campaigns, or other forms of abusive communications.
+
+7.7 Intellectual Property Infringement
+
+You may not use Services to intentionally host or distribute content that infringes another party’s copyrights, trademarks, patents, trade secrets, or other intellectual property rights.
+
+7.8 Exploitation of Minors
+
+Any content or activity involving the sexual exploitation or abuse of minors is strictly prohibited.
+
+OBSDN Host may immediately suspend affected Services and preserve or disclose information where required or permitted by law.
+
+7.9 Harassment and Threats
+
+You may not use Services to facilitate credible threats of violence, targeted harassment, stalking, extortion, or doxxing.
+
+7.10 Illegal Financial Activity
+
+You may not use Services to facilitate unlawful financial activity, fraudulent transactions, stolen payment information, financial credential theft, or similar conduct.
+
+7.11 Cryptocurrency Mining
+
+Cryptocurrency mining or substantially similar workloads may not be operated on OBSDN Host infrastructure unless expressly authorized in writing by OBSDN Host.
+
+7.12 Resource Abuse
+
+Customers may not intentionally operate workloads designed primarily to consume disproportionate infrastructure resources or circumvent the technical limitations of their purchased plan.
+
+⸻
+
+8. Discord Bot Hosting Requirements
+
+Because OBSDN Host provides Discord bot hosting, Customers are responsible for ensuring that their Discord applications comply with both these Terms and Discord’s applicable policies.
+
+8.1 Discord Compliance
+
+Customers must comply with Discord’s applicable Terms of Service, Developer Terms, Developer Policy, Community Guidelines, and other applicable Discord rules.
+
+8.2 Discord Tokens
+
+Customers are responsible for protecting their Discord bot tokens and credentials.
+
+OBSDN Host will not intentionally publish or disclose Customer credentials except where required for legitimate service operation, security, support, or legal compliance.
+
+8.3 Discord Enforcement
+
+OBSDN Host is not responsible for Discord disabling, restricting, suspending, rate-limiting, terminating, or otherwise taking action against a Customer’s Discord application.
+
+8.4 Bot Abuse
+
+A Customer may not operate a bot through OBSDN Host that is primarily intended to facilitate:
+
+* Spam;
+* Raiding;
+* DDoS activity;
+* Credential theft;
+* Phishing;
+* Token theft;
+* Malicious automation;
+* Unauthorized account access;
+* Fraud;
+* Malware distribution; or
+* Other prohibited activity.
+
+8.5 Discord API Availability
+
+OBSDN Host does not guarantee uninterrupted access to Discord’s API or Discord’s infrastructure.
+
+Outages, API changes, rate limits, policy enforcement, or other Discord-related events may affect a hosted bot.
+
+Such events are outside OBSDN Host’s direct control.
+
+⸻
+
+9. Customer Content
+
+9.1 Ownership
+
+You retain ownership of Customer Content that you lawfully own.
+
+OBSDN Host does not claim ownership of your source code, bot files, databases, configurations, or other Customer Content merely because you host it with us.
+
+9.2 License to Operate
+
+By uploading Customer Content, you grant OBSDN Host a limited, non-exclusive, worldwide, royalty-free license to host, store, reproduce, transmit, process, and technically access that content solely as reasonably necessary to:
+
+* Provide the Services;
+* Operate servers;
+* Perform backups;
+* Provide technical support;
+* Maintain infrastructure;
+* Troubleshoot problems;
+* Protect the Services;
+* Detect security threats;
+* Comply with legal obligations; or
+* Enforce these Terms.
+
+9.3 Customer Responsibility
+
+You are solely responsible for ensuring that you have all necessary rights, licenses, permissions, and authorizations for Customer Content.
+
+9.4 Prohibited Content
+
+Customer Content must comply with the Acceptable Use Policy and applicable law.
+
+OBSDN Host may remove, restrict, quarantine, or disable access to content when reasonably necessary to address security concerns, legal obligations, abuse, or violations of these Terms.
+
+⸻
+
+10. Backups
+
+OBSDN Host may provide backups depending on the applicable Service.
+
+Where backups are advertised as included, they are provided as a risk-reduction feature and should not be considered an absolute guarantee against data loss.
+
+10.1 Customer Backups
+
+Customers are responsible for maintaining independent copies of important files.
+
+10.2 Backup Availability
+
+OBSDN Host does not guarantee that every backup will be successfully created, retained, or restorable.
+
+Backups may be affected by:
+
+* Hardware failure;
+* Software failure;
+* Corruption;
+* Storage failure;
+* Network incidents;
+* Security incidents;
+* Human error;
+* Maintenance;
+* Account termination;
+* Abuse enforcement; or
+* Other circumstances outside our reasonable control.
+
+10.3 Deleted Services
+
+Once a Service has been terminated or permanently deleted, associated files and backups may become permanently unavailable.
+
+Customers should download or independently preserve any data they wish to retain before cancellation or termination.
+
+⸻
+
+11. Service Availability and Maintenance
+
+11.1 Service Availability
+
+OBSDN Host aims to provide reliable and high-performance infrastructure.
+
+However, no hosting provider can guarantee uninterrupted availability under every circumstance.
+
+11.2 Scheduled Maintenance
+
+OBSDN Host may perform scheduled maintenance where reasonably necessary to maintain or improve:
+
+* Hardware;
+* Software;
+* Network infrastructure;
+* Security;
+* Storage;
+* Control panels;
+* Operating systems; or
+* Other components of the Services.
+
+11.3 Emergency Maintenance
+
+Emergency maintenance may occur without advance notice when required to protect infrastructure, Customers, data, or network security.
+
+11.4 Third-Party Outages
+
+OBSDN Host is not responsible for outages caused by third-party networks, data centers, upstream providers, DNS providers, payment processors, Discord, software providers, or other external services.
+
+⸻
+
+12. DDoS Protection
+
+OBSDN Host may provide network-level DDoS protection as part of its Services.
+
+DDoS protection is intended to reduce the impact of malicious traffic but does not guarantee that every attack will be successfully mitigated.
+
+OBSDN Host may temporarily null-route, restrict, suspend, or otherwise isolate a Service during an unusually severe attack when necessary to protect the broader network or other Customers.
+
+⸻
+
+13. Customer Support
+
+OBSDN Host provides customer support through available support channels.
+
+Support may be provided through:
+
+* The OBSDN Host website;
+* Website support/ticket systems;
+* The official OBSDN Host Discord server; and
+* Email.
+
+13.1 Support Email
+
+General support may be contacted at:
+
+support@obsdnhost.com
+
+13.2 Discord Support
+
+Customers may obtain support through the official OBSDN Host Discord community:
+
+https://discord.gg/TD6aVd58YD
+
+13.3 Website Support
+
+Customers may also use the support/ticket functionality available through the OBSDN Host website:
+
+https://obsdnhost.com
+
+13.4 Support Limitations
+
+Support is intended to assist Customers with OBSDN Host Services.
+
+We may not be able to provide development, programming, debugging, configuration, or third-party software support beyond what is reasonably necessary to operate the hosting environment.
+
+⸻
+
+14. Payments and Billing
+
+14.1 Payment Obligation
+
+Customers agree to pay all applicable charges for Services purchased from OBSDN Host.
+
+14.2 Billing Information
+
+Customers are responsible for ensuring that billing information is accurate and current.
+
+14.3 Recurring Services
+
+Where a Service is purchased on a recurring basis, the Service may renew automatically according to the applicable billing interval unless cancelled before renewal.
+
+14.4 Taxes
+
+Applicable taxes, duties, fees, or governmental charges may be added where required.
+
+14.5 Pricing
+
+OBSDN Host may change pricing for Services in the future.
+
+Where a price change affects an existing recurring Service, reasonable notice will be provided where required by applicable law.
+
+14.6 Promotional Pricing
+
+Promotional prices, discounts, coupons, credits, or special offers may be subject to additional conditions.
+
+Unless expressly stated otherwise, promotional pricing does not permanently alter the standard price of a Service.
+
+14.7 Failed Payments
+
+If payment fails or becomes overdue, OBSDN Host may suspend the associated Service after providing reasonable notice where practical.
+
+⸻
+
+15. Refund Policy
+
+OBSDN Host currently provides a 7-day money-back guarantee on eligible plans, as advertised on the OBSDN Host website.
+
+OBSDN Host
+
+15.1 Seven-Day Guarantee
+
+Eligible Customers may request a refund within seven (7) calendar days of the original purchase of an eligible Service.
+
+15.2 Eligibility
+
+A refund request may be denied where:
+
+* The seven-day period has expired;
+* The Service or purchase is excluded from the guarantee;
+* The Customer has previously abused the refund policy;
+* The Service was used for prohibited activity;
+* The Customer initiated a fraudulent transaction;
+* The Customer violated these Terms;
+* The Customer has received a refund for the same Service;
+* The request relates to a renewal rather than an eligible initial purchase; or
+* A refund would otherwise be prohibited by applicable law or payment-provider requirements.
+
+15.3 Refund Requests
+
+Refund requests should be submitted through OBSDN Host’s support system or by contacting:
+
+support@obsdnhost.com
+
+15.4 Refund Processing
+
+Approved refunds will generally be returned through the original payment method where reasonably possible.
+
+The time required for funds to appear may depend on the applicable payment processor or financial institution.
+
+15.5 Promotional Purchases
+
+Promotional or discounted Services remain subject to the same applicable refund conditions unless the promotion states otherwise.
+
+15.6 Non-Refundable Circumstances
+
+Services may not be eligible for refunds where termination resulted from:
+
+* Abuse;
+* Fraud;
+* Illegal activity;
+* Chargeback abuse;
+* Violation of the Acceptable Use Policy;
+* Deliberate security attacks;
+* Repeated policy violations; or
+* Other material violations of these Terms.
+
+⸻
+
+16. Cancellation
+
+16.1 Customer Cancellation
+
+Customers may request cancellation of a Service through the available client-area or support mechanisms.
+
+16.2 Cancellation Timing
+
+Customers remain responsible for charges incurred before cancellation becomes effective.
+
+16.3 Data After Cancellation
+
+Upon cancellation or expiration, the associated Service and Customer Content may be removed after the applicable retention period.
+
+Customers are responsible for obtaining copies of any data they wish to retain before cancellation.
+
+⸻
+
+17. Chargebacks and Payment Disputes
+
+Customers should contact OBSDN Host before initiating a payment dispute when the issue concerns a Service, billing error, cancellation, or refund.
+
+Fraudulent or abusive chargebacks may result in:
+
+* Immediate suspension;
+* Termination of Services;
+* Account restrictions;
+* Loss of access to future purchases; and
+* Recovery of legitimate amounts owed, where permitted by law.
+
+Nothing in this section limits any rights that cannot lawfully be waived.
+
+⸻
+
+18. Account Suspension
+
+OBSDN Host may suspend an Account or Service where reasonably necessary to:
+
+* Protect infrastructure;
+* Investigate abuse;
+* Investigate security incidents;
+* Respond to legal requests;
+* Address overdue payments;
+* Prevent fraud;
+* Enforce these Terms;
+* Respond to credible reports of prohibited activity; or
+* Protect other Customers.
+
+Where practical, OBSDN Host may provide notice and an opportunity to resolve the issue.
+
+Immediate suspension may occur where delay could cause significant harm.
+
+⸻
+
+19. Termination
+
+19.1 Customer Termination
+
+Customers may stop using the Services or request cancellation in accordance with the applicable cancellation process.
+
+19.2 OBSDN Host Termination
+
+OBSDN Host may terminate Services where a Customer:
+
+* Materially violates these Terms;
+* Uses Services for illegal activity;
+* Engages in fraud;
+* Repeatedly violates acceptable-use requirements;
+* Attempts to compromise OBSDN infrastructure;
+* Fails to pay amounts due;
+* Abuses support staff or infrastructure;
+* Engages in conduct that creates significant risk to other Customers; or
+* Otherwise creates a substantial risk to the Services or Company.
+
+19.3 Immediate Termination
+
+OBSDN Host may terminate a Service without advance notice where immediate action is reasonably necessary to protect infrastructure, Customers, third parties, or comply with legal obligations.
+
+19.4 Effect of Termination
+
+Following termination, access to the affected Service may be permanently disabled and Customer Content may become unavailable.
+
+Customers are responsible for maintaining their own backups.
+
+⸻
+
+20. Intellectual Property
+
+20.1 OBSDN Host Property
+
+Unless otherwise stated, the OBSDN Host name, branding, logos, website design, software, documentation, interfaces, graphics, written materials, and other Company-created materials are owned by or licensed to OBSDN Host.
+
+20.2 Limited Use
+
+Your use of the Services does not grant you ownership of OBSDN Host intellectual property.
+
+You may not reproduce, modify, distribute, sell, sublicense, reverse engineer, or commercially exploit OBSDN Host intellectual property without authorization.
+
+20.3 Customer Intellectual Property
+
+OBSDN Host does not claim ownership of intellectual property contained in Customer Content solely because it is hosted on our infrastructure.
+
+⸻
+
+21. Third-Party Services
+
+OBSDN Host may integrate with or rely upon third-party services.
+
+Examples may include:
+
+* Discord;
+* Payment processors;
+* Data center providers;
+* Network providers;
+* Cloud infrastructure;
+* Software repositories;
+* Authentication providers;
+* DNS providers; and
+* Other infrastructure providers.
+
+Third-party services are governed by their own terms and policies.
+
+OBSDN Host is not responsible for third-party outages, policy changes, account enforcement, or services outside our reasonable control.
+
+⸻
+
+22. Discord Disclaimer
+
+OBSDN Host is an independent hosting provider.
+
+Unless expressly stated otherwise, OBSDN Host is not owned, operated, endorsed, sponsored, or administered by Discord Inc.
+
+“Discord” and associated trademarks belong to their respective owners.
+
+Customers remain responsible for compliance with Discord’s applicable policies.
+
+⸻
+
+23. Third-Party Software
+
+Customers may install and operate software on their Services subject to these Terms.
+
+OBSDN Host does not guarantee the compatibility, functionality, licensing, security, or performance of third-party software.
+
+Customers are responsible for:
+
+* Obtaining valid software licenses;
+* Keeping software updated;
+* Configuring software securely;
+* Maintaining application credentials;
+* Addressing vulnerabilities; and
+* Ensuring their software complies with applicable law.
+
+⸻
+
+24. Security
+
+OBSDN Host takes reasonable technical and organizational measures to protect its infrastructure.
+
+However, no computer system, network, hosting platform, or Internet transmission can be guaranteed to be completely secure.
+
+Customers are responsible for securing their own applications, credentials, dependencies, databases, source code, and Customer Content.
+
+⸻
+
+25. Data Loss
+
+OBSDN Host will take reasonable measures to maintain the reliability of its infrastructure and any advertised backup systems.
+
+However, OBSDN Host does not guarantee that Customer Content will never be lost, corrupted, damaged, deleted, or rendered inaccessible.
+
+Customers should maintain independent backups of important data.
+
+⸻
+
+26. Disclaimer of Warranties
+
+To the maximum extent permitted by applicable law, the Services are provided on an “as available” and “as is” basis.
+
+OBSDN Host does not guarantee that:
+
+* The Services will be uninterrupted;
+* The Services will be completely error-free;
+* The Services will meet every Customer requirement;
+* Every software application will function correctly;
+* Discord or other third-party APIs will remain available;
+* Data will never be lost;
+* Backups will always be restorable;
+* Network performance will always remain constant; or
+* Security incidents can never occur.
+
+Nothing in these Terms excludes a warranty or legal right that cannot lawfully be excluded.
+
+⸻
+
+27. Limitation of Liability
+
+To the maximum extent permitted by applicable law, OBSDN Host and its owners, employees, contractors, affiliates, partners, suppliers, and service providers shall not be liable for indirect, incidental, consequential, special, exemplary, or punitive damages arising from or related to the Services.
+
+This may include losses involving:
+
+* Lost profits;
+* Lost revenue;
+* Lost business opportunities;
+* Lost data;
+* Lost customers;
+* Service interruption;
+* Business interruption;
+* Reputation;
+* Third-party platform enforcement; or
+* Unauthorized access.
+
+To the maximum extent permitted by applicable law, OBSDN Host’s total aggregate liability arising from or related to a Service shall not exceed the amount actually paid by the Customer to OBSDN Host for the affected Service during the three (3) months immediately preceding the event giving rise to the claim.
+
+Nothing in these Terms limits liability where such limitation is prohibited by applicable law.
+
+⸻
+
+28. Indemnification
+
+To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless OBSDN Host, its owners, officers, employees, contractors, affiliates, partners, and service providers from claims, liabilities, damages, losses, costs, and expenses arising from:
+
+* Your violation of these Terms;
+* Your violation of applicable law;
+* Your Customer Content;
+* Your misuse of the Services;
+* Your infringement of another party’s intellectual property;
+* Your unauthorized activities; or
+* Your actions or omissions involving the Services.
+
+OBSDN Host reserves the right to assume exclusive control of the defense of a matter subject to indemnification.
+
+⸻
+
+29. Abuse Reports
+
+Reports concerning suspected abuse, security incidents, illegal activity, or violations of these Terms may be submitted to:
+
+support@obsdnhost.com
+
+Reports should contain enough information for OBSDN Host to reasonably investigate the issue.
+
+OBSDN Host may investigate reports and take action where appropriate.
+
+⸻
+
+30. Copyright Complaints
+
+If you believe Customer Content hosted through OBSDN Host infringes your copyright, you may contact OBSDN Host with information sufficient to identify:
+
+* The copyrighted work;
+* The allegedly infringing material;
+* The location of the material;
+* Your contact information;
+* A statement that you believe the use is unauthorized; and
+* Any other information reasonably necessary to investigate the complaint.
+
+False or fraudulent copyright complaints may result in legal consequences.
+
+⸻
+
+31. Law Enforcement Requests
+
+OBSDN Host may cooperate with valid legal requests, court orders, subpoenas, warrants, or other legally binding processes.
+
+Where legally permitted, OBSDN Host may attempt to provide reasonable notice to affected Customers.
+
+OBSDN Host may disclose information where reasonably necessary to:
+
+* Comply with law;
+* Protect the rights or safety of individuals;
+* Investigate fraud;
+* Investigate abuse;
+* Protect infrastructure;
+* Prevent security incidents; or
+* Comply with valid legal process.
+
+⸻
+
+32. Privacy
+
+OBSDN Host’s collection and use of personal information is governed by the OBSDN Host Privacy Policy.
+
+By using the Services, you acknowledge that your information may be processed as described in that Privacy Policy.
+
+The Privacy Policy is incorporated into these Terms by reference.
+
+⸻
+
+33. Changes to Services
+
+OBSDN Host may modify, improve, replace, discontinue, or introduce Services and features.
+
+Where reasonably practical, Customers may receive notice of material changes.
+
+OBSDN Host does not guarantee that a particular product, feature, software version, hardware configuration, or infrastructure location will remain available indefinitely.
+
+⸻
+
+34. Changes to These Terms
+
+OBSDN Host may update these Terms from time to time.
+
+When changes are made, the revised version will be published through an official OBSDN Host channel.
+
+The “Last Updated” date at the beginning of these Terms will indicate when the document was most recently modified.
+
+Where required by applicable law, material changes will be communicated through an appropriate notice.
+
+Continued use of the Services after the effective date of revised Terms constitutes acceptance of the revised Terms to the extent permitted by law.
+
+⸻
+
+35. Force Majeure
+
+OBSDN Host will not be responsible for failure or delay caused by circumstances beyond its reasonable control.
+
+Such circumstances may include:
+
+* Natural disasters;
+* Fires;
+* Floods;
+* Severe weather;
+* Power failures;
+* Internet backbone failures;
+* Data center failures;
+* Telecommunications failures;
+* War;
+* Terrorism;
+* Government action;
+* Civil unrest;
+* Labor disputes;
+* Cyberattacks;
+* Widespread malware incidents;
+* Third-party infrastructure failures;
+* DNS failures;
+* Major software vulnerabilities; or
+* Other extraordinary events outside reasonable control.
+
+⸻
+
+36. No Waiver
+
+Failure by OBSDN Host to enforce a provision of these Terms does not constitute a waiver of the right to enforce that provision in the future.
+
+⸻
+
+37. Severability
+
+If any provision of these Terms is determined to be invalid, illegal, or unenforceable, that provision shall be interpreted to the maximum extent permitted by law.
+
+The remaining provisions shall remain in full force and effect.
+
+⸻
+
+38. Assignment
+
+You may not transfer or assign your rights or obligations under these Terms without the prior written authorization of OBSDN Host where such authorization is legally required.
+
+OBSDN Host may transfer or assign its rights and obligations in connection with a merger, acquisition, restructuring, sale of assets, corporate reorganization, or similar transaction.
+
+⸻
+
+39. Relationship of the Parties
+
+Nothing in these Terms creates a partnership, joint venture, employment relationship, agency relationship, or franchise relationship between you and OBSDN Host.
+
+You are an independent Customer of the Services.
+
+⸻
+
+40. Entire Agreement
+
+These Terms, together with applicable product descriptions, order information, policies, and incorporated documents, constitute the entire agreement concerning your use of the Services.
+
+They supersede prior representations concerning the same subject matter to the extent permitted by law.
+
+⸻
+
+41. Governing Law and Disputes
+
+These Terms shall be interpreted and governed by the laws applicable to OBSDN Host and its place of establishment, except where applicable law requires otherwise.
+
+Before initiating formal legal proceedings, the parties agree to make a reasonable effort to resolve disputes informally.
+
+Customers should first contact:
+
+support@obsdnhost.com
+
+A written description of the dispute should include the relevant Account information, the nature of the issue, and the requested resolution.
+
+Nothing in this section prevents either party from exercising rights that cannot legally be waived.
+
+⸻
+
+42. Consumer Rights
+
+Nothing in these Terms is intended to remove or limit consumer rights that cannot legally be excluded under applicable law.
+
+Where mandatory consumer protection laws apply to you, those rights remain unaffected.
+
+⸻
+
+43. Contact Information
+
+For questions concerning these Terms, Services, billing, abuse reports, or other legal or operational matters, contact OBSDN Host through:
+
+Email: support@obsdnhost.com
+
+Website: https://obsdnhost.com
+
+Discord: https://discord.gg/TD6aVd58YD
+
+Website support and ticket requests may also be submitted through the OBSDN Host website.
+
+⸻
+
+44. Agreement Acknowledgment
+
+By creating an Account, purchasing a Service, or using an OBSDN Host Service, you acknowledge that:
+
+* You have read these Terms;
+* You understand these Terms;
+* You agree to comply with these Terms;
+* You understand the acceptable-use restrictions;
+* You understand your responsibility for Customer Content;
+* You understand that hosting Services may experience interruptions;
+* You understand that you are responsible for maintaining independent backups of important data; and
+* You agree to remain responsible for activity conducted through your Account.
+
+Thank you for choosing OBSDN Host.
