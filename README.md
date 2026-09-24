@@ -1,2 +1,2 @@
 # OBSDN-Host
-A official home for OBSDN Host.
+The official home of OBSDN Host.
